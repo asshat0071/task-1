@@ -1,0 +1,12 @@
+           TASK -1 
+AUTOMATED WATERRING SYSTEM
+Sensors and components
+Moisture measuring sensor
+Humiidity Sensorr
+Temperature sensor
+Servo motors 
+
+A major problem with most commercial sprinkler and gardening systems is that they are timer based. This means that once or twice a day, The system turns on the water supply for a predefined time and then turns it off. This is not necessarily efficient as ideally plants should only be wattered under specific conditions.
+
+This system could potentially solve that. By comparing data from various sensors, an optimum watering system could be created.
+For example water could only be allowed to flow when the soil moisture reaches below a certain level. Given the fct that the jetson is a computer in itselfand can process data, data from the humidity and temperature sensors could be maped and a coreltion between the data obtained by these sensors and te probability of it raining could be found. Another way to predict the rains could be by using wifi to connect to various metereological sensors around the world that map wind and air current patterns. This way the projectcould also predict droughts and rain and ensure that the plants are wattered accordingly
